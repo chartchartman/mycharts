@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  microservice-schedule:
+  - apiVersion: v1
+    created: 2018-04-03T11:31:02.839501553+09:00
+    description: A Helm chart for Kubernetes
+    digest: 3a838f2d6118a70d7ad5103a0d26c164e89ea844bff5bce4c88e138bafd247b7
+    name: microservice-schedule
+    urls:
+    - https://chartchartman.github.io/mycharts/microservice-schedule-1.0.0.tgz
+    version: 1.0.0
+  microservice-vote:
+  - apiVersion: v1
+    created: 2018-04-03T11:31:02.841066442+09:00
+    description: A Helm chart for Kubernetes
+    digest: 4156b9e0ca96b9b1b0441ef62d15ca6765901ab99ca632ba6b1fd077bfad1abf
+    name: microservice-vote
+    urls:
+    - https://chartchartman.github.io/mycharts/microservice-vote-1.0.0.tgz
+    version: 1.0.0
+  web-application:
+  - apiVersion: v1
+    created: 2018-04-03T11:31:02.843817208+09:00
+    description: A Helm chart for Kubernetes
+    digest: e735e7a35d57757b1a3bac1e92d90696cef4dd3a4324307c4c3ce673710d58b1
+    name: web-application
+    urls:
+    - https://chartchartman.github.io/mycharts/web-application-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-04-03T11:31:02.838780654+09:00
